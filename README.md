@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gorankd
 - 👀 I’m interested in working in coding  
-- 🌱 I’m currently learning phyton/js
+- 🌱 I’m currently learning python/js
 - 📫 How to reach me: gorankovacevickd@gmail.com  
 - ⚡ Fun fact: ... i'm very funny
 
